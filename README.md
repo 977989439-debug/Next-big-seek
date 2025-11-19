@@ -23,7 +23,7 @@ We are building a secure, open, and vibrant **developer ecosystem** to create a 
 
 ## OS Framework
 
-![AgentOS](./images/diagram.png)
+<img src="./images/diagram.png" alt="AgentOS" width="50%" />
 
 ## 🚀Features Implemented
 ### 1. Unified Multi-Protocol Device Access
