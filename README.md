@@ -67,6 +67,7 @@ We are building a secure, open, and vibrant **developer ecosystem** to create a 
 ## Software
 ### Firmware Flashing
 Download the Flashing Tool (ESP32-S3 Flash Download Tool v3.9.8) and the Corresponding Firmware
+
 👉[Beginner's Firmware Flashing Guide](https://...)
 
 ### Development Environment
