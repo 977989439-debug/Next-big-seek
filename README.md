@@ -23,6 +23,7 @@ We are building a secure, open, and vibrant **developer ecosystem** to create a 
 
 [![main follow](https://img.shields.io/badge/official-Website-brightgreen?style=for-the-badge)](https://www.futuseek.com/zh) &ensp;&ensp;&ensp;
 
+---
 ## ✨OS Framework
 
 <img src="./images/diagram.png" alt="AgentOS" width="50%" />
