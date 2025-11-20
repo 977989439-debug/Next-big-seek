@@ -108,7 +108,7 @@
 App 示例
 | **设备接入** | **智能体超市**  | **智能体演示**  |
 | ----------- | ------------------------------ | ----------------- |
-| <img src="./images/Device Connection.jpg" width="250"> | <img src="./images/Agent Marketplace.jpg" width="250"> | <img src="./images/Agent Showcase.jpg" width = "250"> | 
+| <img src="./images/Device Connection_cn.png" width="250"> | <img src="./images/AI Marketplace_cn.png" width="250"> | <img src="./images/agent Showcase_cn.png" width = "250"> | 
 
 ---
 ## ✨开发文档
