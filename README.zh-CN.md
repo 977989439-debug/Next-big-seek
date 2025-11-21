@@ -92,7 +92,7 @@
 ### 固件烧录
 下载烧录工具（ESP32S3 FLASH DOWNLOAD TOOL V3.9.8）及对应固件
 
-👉[新手固件烧录教程](https://...)
+👉[新手固件烧录教程](https://www.bilibili.com/video/BV1sDUVBiEji/)
 
 ### 开发环境
 
