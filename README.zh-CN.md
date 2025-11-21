@@ -29,7 +29,7 @@
 ---
 ## ✨OS 架构
 
-<img src="./images/diagram.png" alt="AgentOS" width="60%" />
+<img src="./images/framework-cn.png" alt="AgentOS" width="60%" />
 
 ---
 ## 🚀实现功能
