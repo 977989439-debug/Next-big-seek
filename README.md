@@ -61,7 +61,7 @@ We are building a secure, open, and vibrant **developer ecosystem** to create a 
 ### Get It Here
 👉 [AI陪伴对话聊天魔盒](https://item.taobao.com/item.htm?id=994966050649&pisk=flKkyEguYU75yZFlCqjSr4UAN_3xe7sCTBEd9MCEus5bwULJ9MmHpQ482TIJo9RpGvM52p5HtICXtwM5965H9p8-Hcn9FLsCYBctXc3wI6R9Z7SFTvWVdO3zWwLDFLsCT-FEWEJSxZpQsybeTi7VIOjFLwrrniW1BMrP8uJVgs6E_zP3NeE2YYbOsWH1ILBxnW92UsqMhnXzT1n1skPw0TvcaLJQYk-cEaxDZKOXwaLeCNtJnDqf2dYV0TAEbbS2QEvOr3cg26_HmQYHh4rAaEpPS3A-py6D-p-1VG2E4KjlZN-lzck2_KveWZxxQcsl4_8dVpeiwKxkwLtDpJzVqgLcS3jN4Na47hOgAarcdyaCzt6c6o9RDOpYhB4mnx4sPaWfefHmnyN5zt6VVxD07obPhTOc.&skuId=6140734123641&spm=a1z10.1-c.w4004-25964659305.2.59b013ebS5nRBc)
 ### Product Image
-<img src='https://img.alicdn.com/imgextra/i2/2221128175165/O1CN012bfcLF1o1cmjdba4H_!!2221128175165.png_.webp' alt="Download on the App Store" height="350px" width="330px"><img src='https://img.alicdn.com/imgextra/i1/2221128175165/O1CN01rcWmhj1o1cmkzYFpp_!!2221128175165.jpg' alt="Download on the App Store" height="350px" width="270px">
+<img src='https://img.alicdn.com/imgextra/i2/2221128175165/O1CN012bfcLF1o1cmjdba4H_!!2221128175165.png_.webp' alt="Download on the App Store" height="350px" width="330px"><img src='https://img.alicdn.com/imgextra/i1/2221128175165/O1CN01rcWmhj1o1cmkzYFpp_!!2221128175165.jpg' alt="Download on the App Store" height="350px" width="290px">
 
 
 ### Supported Open-Source Hardware
@@ -83,7 +83,7 @@ Download the Flashing Tool (ESP32-S3 Flash Download Tool v3.9.8) and the Corresp
 ## ✨Get Apsets App (1 min)
 Download Apsets App | **IOS** | **Android** |
 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg' alt="Download on the App Store" height="50px" width="160px">](https://apps.apple.com/cn/app/apsets/id6754238593)   [<img src='https://upload.wikimedia.org/wikipedia/commons/9/9e/Huawei_AppGallery_Badge_Black_EN.svg' alt='Get it on huawei' height="50px" width="160px">](https://play.google.com/store/apps/details?id=com.friend.ios)    [<img src='https://upload.wikimedia.org/wikipedia/commons/a/a4/Xiaomi-logo.jpg' alt="Download on Mi App Store" height="50px" width="120px">](https://app.mi.com/details?id=com.szwlq.qsapsets&ref=search)
+[< img src='https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg' alt="Download on the App Store" height="50px" width="160px">](https://apps.apple.com/cn/app/apsets/id6754238593)   [< img src='https://upload.wikimedia.org/wikipedia/commons/9/9e/Huawei_AppGallery_Badge_Black_EN.svg' alt='Get it on huawei' height="50px" width="160px">](https://appgallery.huawei.com/app/C115823895?sharePrepath=ag&channelId=Apsets%E4%B8%8B%E8%BD%BD&id=b31cae43b21a418ab333b59c640b61b8&s=9E37CBE10EFC04FBFC3D5B708BC6E68177800E25B8806D7BDCF70FC01BC17542&detailType=0&v=&callType=AGDLINK&installType=0000&shareTo=qrcode)   [< img src='https://upload.wikimedia.org/wikipedia/commons/a/a4/Xiaomi-logo.jpg' alt="Download on Mi App Store" height="50px" width="120px">](https://app.mi.com/details?id=com.szwlq.qsapsets&ref=search)
 
 ---
 In Apsets App
