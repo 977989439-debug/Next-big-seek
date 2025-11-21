@@ -1,4 +1,4 @@
-<img src="./images/logo.png" alt="AgentOS" width="40%" />
+<img src="./images/logo.png" alt="AgentOS" width="50%" />
 
  # **欢迎来到 Next-Big-Seek Agent OS!**
 
@@ -29,7 +29,7 @@
 ---
 ## ✨OS 架构
 
-<img src="./images/diagram.png" alt="AgentOS" width="50%" />
+<img src="./images/diagram.png" alt="AgentOS" width="60%" />
 
 ---
 ## 🚀实现功能
