@@ -85,7 +85,7 @@ Download Apsets App | **IOS** | **Android** |
 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg' alt="Download on the App Store" height="50px" width="160px">](https://apps.apple.com/cn/app/apsets/id6754238593)   [<img src='https://upload.wikimedia.org/wikipedia/commons/9/9e/Huawei_AppGallery_Badge_Black_EN.svg' alt='Get it on huawei' height="50px" width="160px">](https://appgallery.huawei.com/app/C115823895?sharePrepath=ag&channelId=Apsets%E4%B8%8B%E8%BD%BD&id=b31cae43b21a418ab333b59c640b61b8&s=9E37CBE10EFC04FBFC3D5B708BC6E68177800E25B8806D7BDCF70FC01BC17542&detailType=0&v=&callType=AGDLINK&installType=0000&shareTo=qrcode)   [<img src='https://github.com/Next-big-seek/Next-big-seek/blob/main/images/xiaomi.png' alt="Download on Mi App Store" height="50px" width="160px">](https://app.mi.com/details?id=com.szwlq.qsapsets&ref=search)
 
----
+
 In Apsets App
 | **Device Connection** | **Agent Marketplace**  | **Agent Showcase**  |
 | ----------- | ------------------------------ | ----------------- |
