@@ -111,5 +111,11 @@ App 示例
 | <img src="./images/Device Connection_cn.png" width="250"> | <img src="./images/AI Marketplace_cn.png" width="250"> | <img src="./images/agent Showcase_cn.png" width = "250"> | 
 
 ---
+## ✨项目说明
+
+这是一个开源的 ESP32 项目，基于 MIT 许可证发布，允许任何人免费使用，包括用于商业用途。
+任何问题建议，欢迎加入 QQ 群: 1056381308
+
+---
 ## ✨开发文档
 > ...
