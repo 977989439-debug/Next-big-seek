@@ -7,9 +7,9 @@
 ---
 ## ✨Introduce
 
-**Next-Big-Seek Agent OS: The Central Nervous System for Intelligent Applications**
+**Next-Big-Seek Agent OS: The core hub of the new generation of interconnected intelligent applications**
 
-This multi-modal agent OS seamlessly connects and manages a vast ecosystem of devices—from smartphones to IoT sensors—enabling them to work together intelligently.
+This multimodal intelligent agent operating system seamlessly integrates, understands and processes data from a vast ecosystem of terminal devices - from smartphones, smart speakers to AI toys, as well as various IoT sensors that communicate via WiFi, Bluetooth, Zigbee, LoRa and 4G/5G networks, enabling intelligent collaborative operation among devices.
 
 **Core Architecture:**
   -   **Device Access Service:** Unifies inputs from any device.
